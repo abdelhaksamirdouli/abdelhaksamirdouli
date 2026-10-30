@@ -43,4 +43,4 @@ I design and teach machine learning and Python training programs.
 ### 📫 Contact
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SQHtm0AAAAAJ)
-douli.a@univ-setif.dz
+abdelhak.samir.douli@gmail.com
