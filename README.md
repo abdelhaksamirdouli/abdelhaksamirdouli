@@ -15,6 +15,8 @@ I work on **machine learning combined with physics-based modelling (bond graphs)
 
 ### 📚 Publications
 
+Full list on [Google Scholar](https://scholar.google.com/citations?user=SQHtm0AAAAAJ).
+
 **Journals**
 * A. S. Douli, A. E. Badoud, B. Ould Bouamama, M. Boukerdja. *Bond Graph-Driven Machine Learning MPPT for Photovoltaic Systems: A Multi-Module Parametric Framework with a Model-Based Reference from Brent's Optimization.* **Energies** (MDPI), accepted, 2026.
 * A. S. Douli, A. E. Badoud, B. Ould Bouamama, M. Boukerdja. *Development and validation of a novel model-agnostic machine learning framework for photovoltaic systems performance assessment under complex weather conditions.* **Results in Engineering** 28, 108237, 2025. [doi](https://doi.org/10.1016/j.rineng.2025.108237)
@@ -40,5 +42,5 @@ I design and teach machine learning and Python training programs.
 
 ### 📫 Contact
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SQHtm0AAAAAJ)
 douli.a@univ-setif.dz
-<!-- TODO: add Google Scholar link -->
