@@ -9,7 +9,7 @@ I work on **machine learning combined with physics-based modelling (bond graphs)
 | Project | What it does | Paper |
 |---|---|---|
 | [**pv-ml-mppt**](https://github.com/abdelhaksamirdouli/pv-ml-mppt) | Model-agnostic ML-MPPT for PV, trained on 10 M samples labelled exactly with Brent's method | *Results in Engineering* (2025) |
-| [**bg-ml-mppt-pv**](https://github.com/abdelhaksamirdouli/bg-ml-mppt-pv) | Bond graph-driven, multi-module ML-MPPT. Trained on 2,187 virtual PV modules, it generalises to unseen commercial panels. | *Energies* (MDPI), accepted 2026 |
+| [**bg-ml-mppt-pv**](https://github.com/abdelhaksamirdouli/bg-ml-mppt-pv) | Bond graph-driven, multi-module ML-MPPT. Trained on 2,187 virtual PV modules, it generalises to unseen commercial panels. | Not submited yet |
 
 **Ongoing:** ML-MPPT for PEM fuel cells validated in hardware-in-the-loop (Speedgoat), and fault detection and isolation of PV modules with LFT bond graphs and deep learning.
 
