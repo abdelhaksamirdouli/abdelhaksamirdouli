@@ -18,7 +18,7 @@ I work on **machine learning combined with physics-based modelling (bond graphs)
 Full list on [Google Scholar](https://scholar.google.com/citations?user=SQHtm0AAAAAJ).
 
 **Journals**
-* A. S. Douli, A. E. Badoud, B. Ould Bouamama, M. Boukerdja. *Bond Graph-Driven Machine Learning MPPT for Photovoltaic Systems: A Multi-Module Parametric Framework with a Model-Based Reference from Brent's Optimization.* **Energies** (MDPI), accepted, 2026.
+* A. S. Douli, A. E. Badoud, B. Ould Bouamama, M. Boukerdja. *Bond graph-driven machine learning for multi-module photovoltaic MPPT validated on measured outdoor I–V curves.* **Computers and Electrical Engineering**, submitted, 2026.
 * A. S. Douli, A. E. Badoud, B. Ould Bouamama, M. Boukerdja. *Development and validation of a novel model-agnostic machine learning framework for photovoltaic systems performance assessment under complex weather conditions.* **Results in Engineering** 28, 108237, 2025. [doi](https://doi.org/10.1016/j.rineng.2025.108237)
 * A. E. Badoud, A. S. Douli, B. Ould Bouamama, M. Boukerdja, R. Kouadri, et al. *Adaptive hybrid MPPT strategy for PEM fuel cells using type-2 fuzzy logic tuned with lightning search and whale optimization.* **Energy Exploration & Exploitation** 44(3), 1293–1335, 2026.
 
